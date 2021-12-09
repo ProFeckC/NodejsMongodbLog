@@ -13,5 +13,8 @@
   ],
   "author": "ProFeckC",
   "license": "GNU",
-  "git repository": "https://github.com/ProFeckC/NodejsMongodbLog"
+  "git repository": "https://github.com/ProFeckC/NodejsMongodbLog",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
